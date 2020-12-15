@@ -1,6 +1,6 @@
 #include "main.h"
 #include "vendor/hash/md5.h"
-#include "CheckFileHash.h"
+#include "checkfilehash.h"
 
 bool CheckFile(mdFile* mdChkFile);
 
